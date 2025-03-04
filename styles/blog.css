@@ -1,5 +1,7 @@
 div{
     background-color: aquamarine;
-    padding: 10px;
-    
+    padding: 20px;
+    border: navy solid 10px;
+    border-radius: 10px 50px ;
+    margin-bottom: 10px;
 }
